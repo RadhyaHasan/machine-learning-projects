@@ -32,6 +32,9 @@ The model is developed using machine learning and deep learning techniques.
 - Presentation and documentation
 
 ## How to Run
+## Google Colab
+
+[Open in Google Colab](https://colab.research.google.com/drive/1CzFGL2gP-YZJgCLJJM4BBM1q-UNniWg0?usp=sharing)
 
 1. Open the notebook or Python file.
 2. Install the required libraries.
