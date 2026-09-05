@@ -32,6 +32,9 @@ The project uses data mining and data analysis techniques to identify patterns t
 - Results and documentation
 
 ## How to Run
+## Google Colab
+
+[Open in Google Colab](https://colab.research.google.com/drive/10fLFFFDCT_8CcokfNAhFbBf2izPETMln?usp=sharing)
 
 1. Open the project notebook or Python file.
 2. Install the required libraries.
