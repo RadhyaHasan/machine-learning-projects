@@ -35,6 +35,9 @@ The goal is to discover customer patterns and support better business decisions.
 - Results and documentation
 
 ## How to Run
+## Google Colab
+
+[Open in Google Colab](https://colab.research.google.com/drive/1saVL1VwJ8KOBXSihMD9JHIyEXtvxgB3r?usp=sharing)
 
 1. Open the project notebook or Python file.
 2. Install the required libraries.
